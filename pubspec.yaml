@@ -3,3 +3,6 @@ version: 0.2.0
 description: Converter for SJIS(shift_jis)
 author: Yuki Awano <y.a.unix@gmail.com>
 homepage: http://www.yaunix.com/
+
+dev_dependencies:
+  unittest: any
